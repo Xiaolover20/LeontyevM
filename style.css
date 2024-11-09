@@ -1,9 +1,11 @@
 ul {
     list-style: none;
+     text-shadow: 2px 2px 0 rgb(189, 186, 186);
 }
 
 h1{
   text-align: center;
+  text-shadow: 3px 3px 0 rgb(189, 186, 186);
 }
 
 header{
